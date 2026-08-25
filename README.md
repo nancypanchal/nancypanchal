@@ -11,4 +11,4 @@ I am currently focusing on learning Data Structures and Algorithms (DSA). I love
 - [DSA-Cracker](https://github.com/nancypanchal/DSA-Cracker)- My daily practice hub for topic-wise DSA solutions.
 
 ## 📊 GitHub Stats
-- [![Nancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=nancypanchal)](https://github.com/nancypanchal/DSA-Cracker)
+- ![Nancy's GitHub stats](https://github-stats-extended.vercel.app/api?username=nancypanchal)
